@@ -13,9 +13,13 @@ This app allows you to add, complete, and delete tasks with data persistence usi
 - Modern dark theme design
 
 ## Screenshot
-![WhatsApp Image 2025-08-10 at 13 42 18_f8eb61e8](https://github.com/user-attachments/assets/21144fc1-0f4a-4446-a32b-07e97d6133e8)
-![WhatsApp Image 2025-08-10 at 13 42 18_8c7d9eaf](https://github.com/user-attachments/assets/b1500ee5-4f1e-4c63-a1f9-241d84eb9135)
-![WhatsApp Image 2025-08-10 at 13 42 19_5ce80098](https://github.com/user-attachments/assets/9e09dc05-70c2-4825-99dd-3a4e50ef7fee)
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/21144fc1-0f4a-4446-a32b-07e97d6133e8" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b1500ee5-4f1e-4c63-a1f9-241d84eb9135" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/9e09dc05-70c2-4825-99dd-3a4e50ef7fee" width="200"/></td>
+  </tr>
+</table>
 
 ## Installation
 
